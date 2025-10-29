@@ -1,1 +1,11 @@
+body {
+  background-color: #1D4221;
+  color: white;
+  font-family: "Bai Jamjuree", sans-serit;
+  display: flex;
+  jutify-content:center;
+  align-itens: center;
+  height: 700px;
+  margin: 0;
+}
 
